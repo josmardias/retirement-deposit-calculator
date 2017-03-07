@@ -1,0 +1,8 @@
+{
+  "name": "retirement-deposit-calculator",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.80.0",
+    "xml2js": "^0.4.17"
+  }
+}
